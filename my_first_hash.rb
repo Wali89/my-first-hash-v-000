@@ -1,6 +1,6 @@
 def my_hash
   my_hash = Hash.new { |guy, name| hash[name] = james }
-
+  my_hash
 end
 
 
